@@ -1,0 +1,11 @@
+:root {
+  --primary: #3C193B;
+  --primary-text: #7A193B;
+  --secondary: #668E00;
+  --secondary-text: #ffffff;
+  --accent: #505050;
+  --accent-text: #ffffff;
+
+  --boxes: #8621BB;
+  --darkboxes: rgba(31, 120, 0, 0.58);
+}
