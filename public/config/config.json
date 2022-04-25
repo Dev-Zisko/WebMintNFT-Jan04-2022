@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x372d8061ac3bd6f382a35ff56018dfffe1330095",
-  "SCAN_LINK": "https://bscscan.com/address/0x372d8061ac3bd6f382a35ff56018dfffe1330095",
+  "CONTRACT_ADDRESS": "HERE",
+  "SCAN_LINK": "HERE",
   "NETWORK": {
     "NAME": "Binance Smart Chain",
     "SYMBOL": "BNB",
     "ID": 56
   },
-  "NFT_NAME": "TESTING",
-  "SYMBOL": "TT",
+  "NFT_NAME": "HERE",
+  "SYMBOL": "HERE",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 2000000000000000,
   "DISPLAY_COST": 0.002,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "",
   "SHOW_BACKGROUND": true
 }
